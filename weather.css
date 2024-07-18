@@ -142,22 +142,22 @@ body{
 
 @media (max-width: 601px) {
     .content{
-        width: 70vw;
-        padding: 10vw 5vw;
+        width: 90vw;
+        padding: 8vw 1vw;
     }
 
     #textBox{
         padding: 2vw 4vw;
-        font-size: 3vw;
+        font-size: 5vw;
     }
 
     #searchButton{
-        padding: 1.3vw;
+        padding: 2vw;
         margin-left: 1.3vw;
     }
 
     #searchButton i{
-        font-size: 4vw;
+        font-size: 5vw;
     }
 
     #resultBox{
